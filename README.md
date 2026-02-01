@@ -15,5 +15,5 @@ A Youtube video to accompany this project will be available on the Apres channel
 - [RPM Optocoupler](https://amzn.to/3GuPF7m)
 - Project Box
 
-  New for version 3.2.0
-  - Alternator Voltage and Current monitoring using a shunt and an INA219
+New for version 3.2.0
+- Alternator Voltage and Current monitoring using a shunt and an INA219
